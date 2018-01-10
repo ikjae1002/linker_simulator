@@ -1,13 +1,13 @@
 Linker Simulator
 ===============================================
 
-##Author
+## Author
 Ikjae Jung
 
-##Date Modified
+## Date Modified
 Feb. 7 2017
 
-##INSTRUCTION
+## INSTRUCTION
 
 1. On terminal, compile Linker.java. (ex. $ java Linker.java)
 
